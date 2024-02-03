@@ -1,6 +1,6 @@
 # Author: Alex Gezerlis
 # Numerical Methods in Physics with Python (CUP, 2020)
-
+# Ethan McCourt was here :)
 from kahansum import kahansum
 from chargearray import chargearray, vecmag
 from legendre import legendre
